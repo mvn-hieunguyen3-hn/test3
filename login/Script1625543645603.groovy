@@ -27,5 +27,9 @@ WebUI.click(findTestObject('Page_OrangeHRM/input_Password_Submit'))
 hieu
 hieu123
 hieu1234
+<<<<<<< HEAD
 789
+=======
+123
+>>>>>>> e0e97fc5873bb38f7a4c293b6ae9c6f79b465d8f
 
